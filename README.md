@@ -34,4 +34,4 @@ The material in this repository is made available under the [MIT license](http:/
 
 ## Statement of contributions
 
-**Daniel Brito** and **Shruthi Naik** worked collaboratively on the presentation, the recording, and practice material.
+**Daniel Brito** and **Shruthi Naik** worked collaboratively on the presentation, recording, and practice material.
