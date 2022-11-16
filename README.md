@@ -16,13 +16,13 @@ The goals of this session are to (1) equip you with conceptual knowledge about t
 
 ## Instructors
 
-- Simon Munzert ([website](http://simonmunzert.github.io/), [twitter](https://twitter.com/simonsaysnothin))
-- Kermit the Frog ([website](https://en.wikipedia.org/wiki/Kermit_the_Frog), [twitter](https://twitter.com/KermitTheFrog))
+- Daniel Brito ([website](http://simonmunzert.github.io/), [twitter](https://twitter.com/simonsaysnothin))
+- Shruthi Naik 
 
 
 ## Further resources
 
-- [dplyr overview at dplyr.tidyverse.org](https://dplyr.tidyverse.org/)
+- [Dates and Times Made Easy with lubridate](https://www.jstatsoft.org/article/view/v040i03)
 - [Hands-on dplyr tutorial by Data School on YouTube](https://www.youtube.com/watch?v=jWjqLW-u3hc)
 - [R for Data Science book - part on data wrangling](https://r4ds.had.co.nz/wrangle-intro.html)
 
